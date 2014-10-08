@@ -1,4 +1,6 @@
 import java.util.Scanner;
+
+import com.zubiri.geometria.Circulo;
 /* Programa para calcular el area de un circulo con el radio que se introduce. */
 
 public class OperacionesCirculo {
